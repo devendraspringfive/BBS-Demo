@@ -6,6 +6,7 @@
     </types>
     <types>
         <members>SVMXC__Service_Order__c.Disable_Picture_After_Job__c</members>
+        <members>SVMXC__Service_Order__c.Number_of_Technicians_Needed__c</members>
         <name>CustomField</name>
     </types>
     <types>
