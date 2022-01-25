@@ -5,6 +5,14 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>SVMXC__Service_Order__c.Disable_Picture_After_Job__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>SVMXC__Service_Order__c.SVMXC__SM_Service_Board_Fields</members>
+        <name>FieldSet</name>
+    </types>
+    <types>
         <members>Admin</members>
         <name>Profile</name>
     </types>
