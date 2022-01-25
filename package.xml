@@ -10,6 +10,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>SVMXC__ServiceMaxDocuments/ItalyFooterPage.jpg</members>
+        <name>Document</name>
+    </types>
+    <types>
         <members>SVMXC__Service_Order__c.SVMXC__SM_Service_Board_Fields</members>
         <name>FieldSet</name>
     </types>
