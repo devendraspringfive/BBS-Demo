@@ -14,6 +14,10 @@
         <name>FieldSet</name>
     </types>
     <types>
+        <members>SVMXC__Service_Order__c-DEF_WW_Callout Work Order Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Admin</members>
         <name>Profile</name>
     </types>
